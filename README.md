@@ -33,7 +33,8 @@ I am currently in my final year pursuing a degree in Artificial Intelligence at 
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/ziad-sameh-05106b221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/ziadsameh3212"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/ziad-sameh-05106b221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/ziadsameh3212"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>|<a href="https://www.upwork.com/freelancers/~01292d530c0b2e71dd"><img src="https://w7.pngwing.com/pngs/388/713/png-transparent-logo-trademark-brand-deer-avatar-text-trademark-logo-thumbnail.png" width="40"></a>
+
 |--|--|
 
 ### Here is a random meme for you, to make your day better

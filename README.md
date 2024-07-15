@@ -1,8 +1,5 @@
-Sure! Here's a customized README for you:
-
----
-
 # Hi There, I'm Ziad Sameh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+---
 
 I'm a final-year student at the Faculty of Computer and Artificial Intelligence, Banha University, majoring in AI. My focus is on data science and machine learning, and I love working on projects that transform data into actionable insights and innovative solutions. I'm open to collaborating on interesting projects.
 

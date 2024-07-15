@@ -2,7 +2,7 @@ Sure! Here's a customized README for you:
 
 ---
 
-# Hi There, I'm [Ziad Sameh] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi There, I'm Ziad Sameh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm a final-year student at the Faculty of Computer and Artificial Intelligence, Banha University, majoring in AI. My focus is on data science and machine learning, and I love working on projects that transform data into actionable insights and innovative solutions. I'm open to collaborating on interesting projects.
 
@@ -25,14 +25,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Tableau" alt="Tableau" width="40px" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 |--|--|--|--|--|
 
-## Projects
-
-Here are some projects I've worked on:
-
-- **Student Grade Predictor:** Developed a predictive model to forecast student grades based on study habits.
-- **Iris Flower Classification:** Implemented a simple machine learning algorithm to classify types of flowers using the Iris dataset.
-- **Survey Data Visualization:** Created data visualization dashboards for a class project, making it easier to understand survey results.
-
 ## Education
 
 I am currently in my final year pursuing a degree in Artificial Intelligence at the Faculty of Computer and Artificial Intelligence, Banha University. My coursework and hands-on projects have equipped me with a strong foundation in statistics, data mining, and machine learning.
@@ -47,8 +39,4 @@ I am currently in my final year pursuing a degree in Artificial Intelligence at 
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
 
-<a href="https://github.com/your-github-username/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
-
----
-
-Replace `[Your Name]`, `your-github-username`, `your-linkedin-profile`, and `your-kaggle-profile` with your actual details. Adjust any other information as needed.
+<a href="https://github.com/Ziad-Sameh3/Ziad-Sameh3"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
